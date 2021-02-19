@@ -2,8 +2,7 @@ name: IBM Cloud Deploy
 
 on:
   workflow_dispatch:
-  push:
-    branches: [ master ]
+
 
 
 defaults:
